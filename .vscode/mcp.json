@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"pinpoint-server": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"tsx",
+				"main.ts"
+			]
+		}
+	},
+	"inputs": []
+}

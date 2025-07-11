@@ -1,0 +1,24 @@
+{
+  "name": "pinpoint-mcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.13.2",
+    "axios": "^1.10.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "pdfreader": "^3.0.7",
+    "zod": "^3.25.67"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}
